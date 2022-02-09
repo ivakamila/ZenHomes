@@ -26,7 +26,3 @@ Mobile responsive e-commerce store.
 - Data stored on firebase
 - Firebase Authentication
 - Pagination
-
-## Screenshot
-
-![App screenshot](/ZenHomes/src/assets/zenhome.png "Screenshot")

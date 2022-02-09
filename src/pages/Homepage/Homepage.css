@@ -1,0 +1,45 @@
+.home {
+  width: 100vw;
+  padding-top: 60px;
+  min-height: 100vh;
+  height: 100%;
+}
+
+.new-collection-img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: relative;
+}
+
+.new-collection-info {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  text-align: right;
+  color: #fff;
+  line-height: 1.7;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.new-collection-info > h2 {
+  font-size: 2rem;
+}
+
+.shop-btn {
+  background-color: #000000;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  padding: 0.5rem 1.9rem;
+  cursor: pointer;
+}
+
+.shop-btn:hover {
+  background: #1f3044;
+  color: #fff;
+}

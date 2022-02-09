@@ -1,0 +1,22 @@
+.search-wrapper {
+  position: relative;
+}
+
+.search-icon {
+  position: absolute;
+  top: 15%;
+  left: 4%;
+}
+
+.search-icon > i {
+  font-size: 1rem;
+}
+
+input[type="search"] {
+  font-size: 1rem;
+  padding: 0.3rem;
+  padding-left: 2rem;
+  margin-right: 1.5rem;
+  border-radius: 5px;
+  border: 1px solid #e6e2dd;
+}

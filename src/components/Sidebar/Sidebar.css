@@ -1,0 +1,62 @@
+.sidebar {
+  height: 100%;
+  margin-right: 3rem;
+  width: 30vw;
+  border: 1px solid #333333;
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+
+.categories {
+  border-bottom: 1px solid black;
+  padding: 1rem 2rem;
+}
+
+.categories a {
+  text-decoration: none;
+  color: #333333;
+  font-size: 1.1rem;
+  line-height: 1.8;
+}
+
+.categories a:hover {
+  text-decoration: underline;
+}
+
+.filters {
+  padding: 1rem 4rem 1rem 2rem;
+}
+
+@media screen and (max-width: 815px) {
+  .categories a {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (max-width: 687px) {
+  .sidebar {
+    width: 70vw;
+    margin: 1rem auto;
+    border: none;
+  }
+
+  .categories h2 {
+    display: none;
+  }
+
+  .categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .filters {
+    padding: 1rem;
+    line-height: 0;
+    text-align: center;
+  }
+}

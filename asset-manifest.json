@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/zenHomes/static/css/main.466a718b.css",
-    "main.js": "/zenHomes/static/js/main.6b1eee56.js",
-    "static/media/home-main.jpg": "/zenHomes/static/media/home-main.ce0f43ee5ab57f6d0502.jpg",
-    "index.html": "/zenHomes/index.html",
-    "main.466a718b.css.map": "/zenHomes/static/css/main.466a718b.css.map",
-    "main.6b1eee56.js.map": "/zenHomes/static/js/main.6b1eee56.js.map"
+    "main.css": "/ZenHomes/static/css/main.466a718b.css",
+    "main.js": "/ZenHomes/static/js/main.7ab5e683.js",
+    "static/media/home-main.jpg": "/ZenHomes/static/media/home-main.ce0f43ee5ab57f6d0502.jpg",
+    "index.html": "/ZenHomes/index.html",
+    "main.466a718b.css.map": "/ZenHomes/static/css/main.466a718b.css.map",
+    "main.7ab5e683.js.map": "/ZenHomes/static/js/main.7ab5e683.js.map"
   },
   "entrypoints": [
     "static/css/main.466a718b.css",
-    "static/js/main.6b1eee56.js"
+    "static/js/main.7ab5e683.js"
   ]
 }

@@ -25,7 +25,7 @@ function App() {
       <Router className="App">
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Homepage />} />
+          <Route exact path="/zenHomes" element={<Homepage />} />
           <Route exact path="/sign-in" element={<LoginForm />} />
           <Route exact path="/sign-up" element={<Signup />} />
           <Route exact path="/reset-password" element={<ResetPassword />} />
